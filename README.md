@@ -1,2 +1,2 @@
-# screenshot
-take a screenshot
+# Screenshot
+ How to take automatic screenshot
